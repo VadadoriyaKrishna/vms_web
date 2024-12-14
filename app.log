@@ -1,0 +1,2312 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:00:49] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:39] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:39] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:39] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:39] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:39] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:03:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:18:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:13] "GET / HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:13] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:13] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:13] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:13] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:13] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:17] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 12:22:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:32:57] "GET /static/js/script.js HTTP/1.1" 200 -
+ERROR:root:Error adding camera: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 10588 and this is thread id 3676.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:33:09] "[35m[1mPOST /add_camera HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:33:13] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:33:13] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:10] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:21] "POST /add_camera HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:40:25] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:41:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:41:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:41:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:41:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:41:01] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:41:01] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:22] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:43:23] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:45:30] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:45:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:45:30] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:45:30] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:30] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:30] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:30] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:46:30] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:53:54] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:54:41] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:12] "POST /add_camera HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:14] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:26] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:35] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:40] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:40] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:55:41] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:56:11] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:56:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:56:11] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:56:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:56:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 15:56:41] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:30] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:00:33] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:01:19] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:00] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:02:55] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:30] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:03:30] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:09:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:11:37] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:12:43] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:05] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:13:53] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:15:40] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:20] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:16:39] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:17:58] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:18:21] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:20:12] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:21:59] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:26:50] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:28:28] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:28:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:28:28] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:28:44] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:28:58] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:29:15] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:29:17] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:29:28] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:29:47] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:30:07] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "[36mGET /static/js/grid_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:20] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:49] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:49] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:31:49] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:32:19] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:32:19] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:32:49] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:11] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:11] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:11] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:12] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:12] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:12] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:37:18] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:31] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:31] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:31] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:43:31] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:27] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:28] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:28] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:45:30] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:43] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:58] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:46:59] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:18] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:18] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:18] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:19] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:19] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:19] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:49:21] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:42] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:50:52] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:30] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:31] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:31] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:36] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:36] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:36] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:53:58] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:40] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:57:40] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:58:06] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:58:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:58:46] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:58:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:58:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:58:46] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:11] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:11] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 16:59:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:03:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:03:59] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:03:59] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:03:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:03:59] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:03:59] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:04:00] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:04:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:04:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:04:09] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:19] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:06:29] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:13] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:13] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:14:33] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\application.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:28] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:30:33] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+ERROR:root:Error reading frame from camera.
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:52] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:42:56] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:23] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 17:52:36] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:27] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:04:59] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:19:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:20:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:40] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:25:41] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:18] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 18:33:21] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:13] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:17] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:09:54] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:01] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:03] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:49] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:50] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:50] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2024 19:10:56] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:24] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:25] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:27:51] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:29:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:27] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:34:49] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:17] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:17] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:21] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:21] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:35:51] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:02] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:02] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:02] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:02] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:20] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:20] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:20] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:24] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:29] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:29] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:29] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:29] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:29] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:30] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:30] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:38:30] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:41:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:41:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /cameras HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:27] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:29] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:31] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:35] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:39] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:42] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:43] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/301 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/501 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:44:44] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:30] "GET /cameras HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:31] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:31] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:31] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:31] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:31] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:31] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:45:33] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /cameras HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:46:05] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:09] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:24] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:48:54] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:52:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:52:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:52:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:01] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:53:10] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 30038.7921 ms
+ERROR:root:Stream timeout triggered after 30058.7027 ms
+ERROR:root:Stream timeout triggered after 40212.43659999999 ms
+ERROR:root:Stream timeout triggered after 45872.8433 ms
+ERROR:root:Stream timeout triggered after 47291.7536 ms
+ERROR:root:Stream timeout triggered after 58894.0071 ms
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:55:54] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:22] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 10:56:31] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 37693.6225 ms
+ERROR:root:Stream timeout triggered after 46417.4608 ms
+ERROR:root:Stream timeout triggered after 42602.3303 ms
+ERROR:root:Stream timeout triggered after 53022.345199999996 ms
+ERROR:root:Stream timeout triggered after 57233.778999999995 ms
+ERROR:root:Stream timeout triggered after 58037.8847 ms
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:00:26] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:20] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:20] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:20] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:20] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:20] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:21] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:21] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:01:31] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 30004.0339 ms
+ERROR:root:Stream timeout triggered after 30022.1467 ms
+ERROR:root:Stream timeout triggered after 37483.0028 ms
+ERROR:root:Stream timeout triggered after 52771.7883 ms
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:11] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 101, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:06:18] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 201, attempting to reconnect...
+ERROR:root:Failed to read frame from camera 601, attempting to reconnect...
+ERROR:root:Failed to read frame from camera 501, attempting to reconnect...
+ERROR:root:Failed to read frame from camera 701, attempting to reconnect...
+ERROR:root:Failed to read frame from camera 401, attempting to reconnect...
+ERROR:root:Failed to read frame from camera 301, attempting to reconnect...
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:10] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:10] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:11] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:11] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:11] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:11] "GET /video_feed/201 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 101, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:09:26] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 401, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:15] "GET /get_camera_ids HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 101, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:15] "GET /video_feed/101 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 401, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:15] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:45] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET /get_camera_ids HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 101, attempting to reconnect...
+ERROR:root:Failed to read frame from camera 401, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:10:53] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:29] "GET /video_feed/401 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 101, attempting to reconnect...
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:11:32] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Failed to read frame from camera 401, attempting to reconnect...
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:25] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:12:26] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:30] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:30] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:30] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:30] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:32] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:32] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:32] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:13:42] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 30041.4826 ms
+ERROR:root:Stream timeout triggered after 30012.8474 ms
+ERROR:root:Stream timeout triggered after 30016.900400000002 ms
+ERROR:root:Stream timeout triggered after 30047.8926 ms
+ERROR:root:Stream timeout triggered after 57362.2582 ms
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:16] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:17:27] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 60043.499599999996 ms
+ERROR:root:Stream timeout triggered after 62144.7699 ms
+ERROR:root:Stream timeout triggered after 70346.8502 ms
+ERROR:root:Stream timeout triggered after 75862.3108 ms
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:39:50] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 11:40:08] "GET /video_feed/701 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 30036.639900000002 ms
+ERROR:root:Stream timeout triggered after 30061.1947 ms
+ERROR:root:Stream timeout triggered after 30073.656799999997 ms
+ERROR:root:Stream timeout triggered after 44946.8157 ms
+ERROR:root:Stream timeout triggered after 59039.757600000004 ms
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:37] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 12:01:39] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vmsapp.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:53] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:19:57] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:25:50] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:21] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:29:33] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 30017.1167 ms
+ERROR:root:Stream timeout triggered after 30102.5164 ms
+ERROR:root:Stream timeout triggered after 37072.93 ms
+ERROR:root:Stream timeout triggered after 47039.6981 ms
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:15] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:15] "GET /static/js/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:16] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:16] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:16] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:16] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:16] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:16] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:20] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:51:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:03] "POST /add_camera HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:07] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:14] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:14] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:14] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:14] "GET /static/js/grid_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:14] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:15] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:15] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:15] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:15] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 14:52:45] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:00:06] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:00:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:37] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:44] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:45] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:47] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:07:47] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:11] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:11] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:12] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:12] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:12] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:12] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:12] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:12] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:17] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:18] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:22] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:23] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:33] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:33] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:33] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:33] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:34] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:34] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:34] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:10:34] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:56] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:56] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:56] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:56] "GET /static/js/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:56] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:57] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:57] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:11:57] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:12:24] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:12:27] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:33] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:33] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:33] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:33] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:33] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:40] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:40] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:40] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:40] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:14:40] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-415-305
+INFO:werkzeug: * Detected change in 'D:\\vms-web\\vms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:26] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:30] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:30] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /get_camera_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:34] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:35] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:18:35] "GET /video_feed/601 HTTP/1.1" 200 -
+ERROR:root:Stream timeout triggered after 56462.12100000001 ms
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:52] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /grid_view HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /static/js/grid_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:21:55] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:22:01] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:22:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:22:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:22:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:22:05] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:22:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:23:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:23:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:23:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:23:11] "[33mGET /get_camera_ids HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:11] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:11] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:11] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:11] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:11] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:14] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:24:15] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:41] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:41] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:41] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:45] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:45] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:27:50] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:29:57] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:41] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:41] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:41] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:30:46] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:04] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:29] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:29] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:29] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:30] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:31:59] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:32:00] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:32:00] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:32:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:46] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:46] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:46] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:34:46] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:35:16] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:35:16] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:35:16] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:36:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:36:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:36:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:36:40] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:36:40] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:36:40] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:37:10] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:37:10] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:37:10] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:37:10] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:37:10] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:07] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:07] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:07] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:07] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:07] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:07] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:11] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:11] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:33] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:38] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:41] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:54] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:42:56] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:00] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:01] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:01] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:46:23] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:32] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:47:33] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:02] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:02] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:34] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:34] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:34] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:34] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:34] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:48:34] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:07] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:08] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:08] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:08] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:08] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:11] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:54] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:55] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:49:59] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:18] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:30] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:55] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:55] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:55] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:50:55] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:01] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:02] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:05] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:05] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:05] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:05] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:49] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:49] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:49] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:49] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:49] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:49] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:53] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 15:51:54] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:33] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:34] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:52] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:25:54] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:01] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:01] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:01] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:01] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:01] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:31] "GET /video_feed/701 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:31] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:26:31] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "GET /video_feed/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "GET /video_feed/301 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "GET /video_feed/401 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:58] "GET /video_feed/801 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:27:59] "GET /video_feed/601 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:28:28] "GET /video_feed/501 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:28:28] "GET /video_feed/201 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2024 16:28:29] "GET /video_feed/701 HTTP/1.1" 200 -

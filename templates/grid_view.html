@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid View</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Cameras</h2>
+            <ul>
+                {% for camera_id in camera_ids %}
+                <li><a href="#" data-camera-id="{{ camera_id }}">Camera {{ camera_id }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="main-content">
+            <h1>Grid View</h1>
+            <div class="grid-container">
+                {% for camera_id in camera_ids %}
+                <div class="grid-item" id="camera{{ camera_id }}">
+                    <h2>Camera {{ camera_id }}</h2>
+                    <img src="{{ url_for('video_feed', camera_id=camera_id) }}" alt="Camera {{ camera_id }} feed" data-camera-id="{{ camera_id }}">
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <div class="controls">
+        <button id="view-1x1">1x1 View</button>
+        <button id="view-2x2">2x2 View</button>
+        <button id="view-3x3">3x3 View</button>
+        <a href="{{ url_for('index') }}"><button id="view-button">Back</button></a>
+    </div>
+    <script src="/static/js/grid_script.js"></script>
+</body>
+</html>

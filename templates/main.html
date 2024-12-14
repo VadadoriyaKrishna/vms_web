@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Management System</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        
+        <div class="sidebar">
+            <h2>Cameras</h2>
+            <ul> 
+                {% for camera_id in camera_ids %}
+                <li><a href="javascript:void(0);" data-camera-id="{{ camera_id }}">Camera {{ camera_id }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="main-content">
+            <div class="header">
+                <h1>Video Management System</h1>
+                <button id="close-button"><i class="fas fa-times"></i></button>
+            </div>
+            
+            <!--div class="grid-container">
+                {% for camera_id in camera_ids %}
+                <div class="grid-item" id="camera{{ camera_id }}">
+                    <h2>Camera {{ camera_id }}</h2>
+                    <img src="{{ url_for('video_feed', camera_id=camera_id) }}" alt="Camera {{ camera_id }} feed">
+                </div>
+                {% endfor %}
+            </div-->
+            <!--div class="grid-container">
+                {% for camera_id in camera_ids %}
+                <div class="grid-item" id="camera{{ camera_id }}">
+                    <h2>Camera {{ camera_id }}</h2>
+                    <img id="feed{{ camera_id }}" alt="Camera {{ camera_id }} feed">
+                </div>
+                {% endfor %}
+            </div>
+        
+            <script>
+                function loadCameraFeed(cameraId) {
+                    var imgElement = document.getElementById('feed' + cameraId);
+                    if (imgElement) {
+                        imgElement.src = '/video_feed/' + cameraId;
+                    }
+                }
+        
+                document.addEventListener('DOMContentLoaded', function() {
+                    var cameraIds = {{ camera_ids|tojson }};
+                    cameraIds.forEach(function(cameraId) {
+                        loadCameraFeed(cameraId);
+                    });
+                });
+            </script>
+        </div-->
+        <div class="grid-container">
+            {% for camera_id in camera_ids %}
+            <div class="grid-item" id="camera{{ camera_id }}">
+                <h2>Camera {{ camera_id }}</h2>
+                <img id="feed{{ camera_id }}" data-src="/video_feed/{{ camera_id }}" alt="Camera {{ camera_id }} feed">
+            </div>
+            {% endfor %}
+        </div>
+    
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var cameraIds = {{ camera_ids|tojson }};
+                
+                // Function to load camera feed
+                function loadCameraFeed(imgElement) {
+                    var src = imgElement.getAttribute('data-src');
+                    if (src) {
+                        imgElement.src = src;
+                    }
+                }
+    
+                // Set up Intersection Observer
+                var observer = new IntersectionObserver(function(entries, observer) {
+                    entries.forEach(function(entry) {
+                        if (entry.isIntersecting) {
+                            var imgElement = entry.target;
+                            loadCameraFeed(imgElement);
+                            observer.unobserve(imgElement);  // Stop observing once loaded
+                        }
+                    });
+                });
+    
+                // Observe each camera feed image
+                cameraIds.forEach(function(cameraId) {
+                    var imgElement = document.getElementById('feed' + cameraId);
+                    if (imgElement) {
+                        observer.observe(imgElement);
+                    }
+                });
+            });
+        </script>
+
+    </div>
+    <div class="controls">
+        <p id="datetime"></p>
+        <button id="add-camera">Add Camera</button>
+        <a href="{{ url_for('grid_view') }}"><button id="view-button">View</button></a>
+        <button id="exit">Exit</button>
+    </div>
+    <script src="/static/js/script.js"></script>
+    <script>
+        // JavaScript code to display date and time
+        function updateDateTime() {
+            var now = new Date();
+            var dateTimeString = now.toLocaleString();
+            document.getElementById('datetime').innerHTML = dateTimeString;
+        }
+        // Update date and time every second
+        setInterval(updateDateTime, 1000);
+    </script>
+</body>
+</html>

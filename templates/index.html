@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Management System</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div id="camera-container"></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.getJSON('/get_camera_ids', function(data) {
+                data.camera_ids.forEach(function(id) {
+                    loadCameraFeed(id);
+                });
+            });
+        });
+
+        function loadCameraFeed(cameraId) {
+            const container = $('#camera-container');
+            const feedDiv = $(`
+                <div class="camera-feed">
+                    <h3>Camera ${cameraId}</h3>
+                    <img id="camera-${cameraId}" class="camera-frame" src="/video_feed/${cameraId}" alt="Camera Feed ${cameraId}">
+                </div>
+            `);
+            container.append(feedDiv);
+        }
+    </script>
+</body>
+</html>

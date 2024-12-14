@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Main Page</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Cameras</h1>
+    <div id="cameraContainer">
+        <!-- Camera feeds will be loaded here dynamically -->
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            // Function to load camera feed using AJAX
+            function loadCameraFeed(cameraId) {
+                $('#cameraContainer').append('<div id="camera' + cameraId + '"></div>');
+                $('#camera' + cameraId).append('<h2>Camera ' + cameraId + '</h2>');
+                $('#camera' + cameraId).append('<img id="img' + cameraId + '" src="/video_feed/' + cameraId + '">');
+            }
+
+            // AJAX request to load camera feeds
+            $.ajax({
+                type: "GET",
+                url: "/load_cameras",
+                dataType: "json",
+                success: function(response) {
+                    // Load each camera feed
+                    response.camera_ids.forEach(function(cameraId) {
+                        loadCameraFeed(cameraId);
+                    });
+                },
+                error: function(xhr, status, error) {
+                    console.error("Error loading cameras:", error);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
