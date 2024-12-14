@@ -1,0 +1,9 @@
+<data>
+   <items>
+      <item name="UI_System_IP">192.168.1.8</item>
+      <item name="Starting_port">5500</item>
+      <item name="ATMS_path">http://192.168.43.5:5520/VMS/Api</item>
+      <item name="client_logo">Images/logo_logo.jpg</item>
+      <item name="dashboard_name">Video Management System</item>
+   </items>
+</data>

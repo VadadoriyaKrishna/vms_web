@@ -1,0 +1,11 @@
+<data>
+   <items>
+      <item name="cam1_ip">rtsp://admin:Admin@123@103.156.169.123:554/ISAPI/Streaming/Channels/101</item>
+      <!--item name="cam1_ip">rtsp://admin:vms@123@192.168.1.51/Streaming/Channels/2</item-->
+      <item name="cam2_ip">rtsp://admin:Admin@123@103.156.169.123:554/ISAPI/Streaming/Channels/201</item>
+      <item name="cam3_ip">rtsp://admin:vms@123@192.168.1.51/Streaming/Channels/2</item>
+      <item name="cam4_ip">rtsp://admin:vms@123@192.168.1.51/Streaming/Channels/2</item>
+      <item name="cam5_ip">rtsp://admin:vms@123@192.168.1.51/Streaming/Channels/2</item>
+      <item name="cam6_ip">rtsp://admin:vms@123@192.168.1.51/Streaming/Channels/2</item>
+   </items>
+</data>
